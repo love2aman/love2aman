@@ -55,4 +55,4 @@
 [6]: http://www.github.com/carlsednaoui
 
 
-[!<3][(https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif)](https://github.com/love2aman/)
+![](https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif) 
