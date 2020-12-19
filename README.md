@@ -5,7 +5,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/love2aman/github-readme-stats)
 
-![Alt Text](https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF)
+[!](https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif)
 
 - 🔭 I’m currently working on Javascript and React Projects.
 - 🌱 I’m currently learning MERN Stack alongwith some Python for Data Science.
