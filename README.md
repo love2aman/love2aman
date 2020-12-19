@@ -47,13 +47,13 @@
 
 
 
-[1]: http://www.twitter.com/love2aman
+[1]: http://www.twitter.com/love2amam
 [2]: http://www.facebook.com/love2aman
 [3]: https://plus.google.com/love2aman
 [4]: http://carlsed.tumblr.com/love2aman
 [5]: http://dribbble.com/love2aman
 [6]: http://www.github.com/love2aman
 
-
+<br>
 
 <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100" height="100" />
