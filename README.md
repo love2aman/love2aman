@@ -5,7 +5,7 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/love2aman/github-readme-stats)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 - 🔭 I’m currently working on Javascript and React Projects.
 - 🌱 I’m currently learning MERN Stack alongwith some Python for Data Science.
