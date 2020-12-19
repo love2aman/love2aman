@@ -1,7 +1,9 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" align="right" />
 <span style="color:blue"> I'm Aman Raj | UI/UX Designer & Frontend Developer </span>
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=love2aman)](https://github.com/love2aman/github-readme-stats)
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=love2aman&show_icons=true&theme=radical)
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/love2aman/github-readme-stats)
 <hr>
