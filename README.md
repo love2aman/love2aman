@@ -1,5 +1,5 @@
 ### Hi there 👋 <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="100" height="100" align="right" />
-## <span style="color:blue"> I'm Aman Raj | UI/UX Designer & Frontend Developer </span>
+<span style="color:blue"> I'm Aman Raj | UI/UX Designer & Frontend Developer </span>
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=love2aman)](https://github.com/love2aman/github-readme-stats)
 
