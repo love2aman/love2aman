@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Aman Raj | UI/UX Designer & Frontend Developer
+<span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
+I'm Aman Raj | UI/UX Designer & Frontend Developer </span>
+
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=singleton11)](https://github.com/love2aman/github-readme-stats)
 
