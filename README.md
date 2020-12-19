@@ -16,6 +16,7 @@
 - 😄 Pronouns: NERD.
 - ⚡ Fun fact: I convert coffee into CODE.
 
+<hr>
 
 
 [![alt text][1.1]][1]
@@ -44,7 +45,7 @@
 [5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
 [6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-<br>
+
 
 
 [1]: http://www.twitter.com/love2amam
