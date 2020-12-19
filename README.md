@@ -47,12 +47,12 @@
 
 
 
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+[1]: http://www.twitter.com/love2aman
+[2]: http://www.facebook.com/love2aman
+[3]: https://plus.google.com/love2aman
+[4]: http://carlsed.tumblr.com/love2aman
+[5]: http://dribbble.com/love2aman
+[6]: http://www.github.com/love2aman
 
 
 
