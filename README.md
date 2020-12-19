@@ -55,4 +55,5 @@
 [6]: http://www.github.com/carlsednaoui
 
 
-![]<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="50" height="50" />
+
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100" height="100" />
