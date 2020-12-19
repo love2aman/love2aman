@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Aman Raj | UI/UX Designer & Frontend Developer
+
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=singleton11)](https://github.com/love2aman/github-readme-stats)
+
 
 <!--
 **love2aman/love2aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
