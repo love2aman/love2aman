@@ -1,10 +1,9 @@
 ### Hi there 👋
 <span style="font-family:Papyrus; font-size:4em;">I'm Aman Raj | UI/UX Designer & Frontend Developer</span>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=love2aman&hide=TeX&layout=compact)
-
 
 [![Aman's github stats](https://github-readme-stats.vercel.app/api?username=love2aman)](https://github.com/love2aman/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/love2aman/github-readme-stats)
 
 <!--
 **love2aman/love2aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
