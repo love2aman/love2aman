@@ -1,14 +1,10 @@
 ### Hi there 👋
 <span style="font-family:Papyrus; font-size:4em;">I'm Aman Raj | UI/UX Designer & Frontend Developer</span>
 
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=singleton11)](https://github.com/love2aman/github-readme-stats)
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/love2aman/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/love2aman/github-readme-stats)
 
-<!--
-**love2aman/love2aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
