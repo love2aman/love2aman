@@ -57,7 +57,7 @@
 [4]: http://carlsed.tumblr.com/love2aman
 [5]: http://dribbble.com/love2aman
 [6]: http://www.github.com/love2aman
-<img src="https://media.giphy.com/media/L388YmACPPVo3kkHan/giphy.gif" width="200" height="200" position="center" /> 
+ 
 <img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="110" height="90" align="right" />
 
 <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="110" height="110" />
