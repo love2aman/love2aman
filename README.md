@@ -59,6 +59,6 @@
 
 <img src="https://media.giphy.com/media/TgOoJbqqhW4L5TFS8C/giphy.gif" width="80" height="80" align="right" />
 <br>
-<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="50" height="50" align="right" />
-<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="90" height="70" align="right" />
+<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="120" height="120" />
 
