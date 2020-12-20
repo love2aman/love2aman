@@ -19,7 +19,7 @@
 - ⚡ Fun fact: I convert coffee into CODE.
 
 <hr>
-<img src="https://media.giphy.com/media/TgOoJbqqhW4L5TFS8C/giphy.gif" width="100" height="100">
+
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -60,3 +60,4 @@
 <br>
 
 <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100" height="100" />
+<img src="https://media.giphy.com/media/TgOoJbqqhW4L5TFS8C/giphy.gif" width="80" height="80" align="right">
