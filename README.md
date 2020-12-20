@@ -7,7 +7,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko)](https://github.com/love2aman/github-readme-stats)
 <hr>
 
-:dart: :mega: :ballot_box_with_check: <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="200" height="200" align="right"/>
+:dart: :mega: :ballot_box_with_check: <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="250" height="250" align="right"/>
 
 - 🔭 I’m currently working on Javascript and React Projects.
 - 🌱 I’m currently learning MERN Stack alongwith some Python for Data Science.
