@@ -58,7 +58,7 @@
 [5]: http://dribbble.com/love2aman
 [6]: http://www.github.com/love2aman
  
-<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="110" height="90" align="center" />
+<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="110" height="90" align="right" />
 
 <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="110" height="110" />
 
