@@ -5,7 +5,7 @@
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=love2aman&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=merko)](https://github.com/love2aman/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=love2aman&repo=github-readme-stats&theme=merko)](https://github.com/love2aman/github-readme-stats)
 <hr>
 
 :dart: :mega: :ballot_box_with_check: <img src="https://media.giphy.com/media/ZeFG00TVXs54Pw4c8e/giphy.gif" width="250" height="250" align="right"/>
