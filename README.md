@@ -58,6 +58,6 @@
 [6]: http://www.github.com/love2aman
 <img src="https://media.giphy.com/media/TgOoJbqqhW4L5TFS8C/giphy.gif" width="80" height="80" align="right"/>
 <br>
-<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="50" height="50" alight="right">
+<img src="https://media.giphy.com/media/TFCiLKxS9Fb13tm9aA/giphy.gif" width="50" height="50" alighn="right"/>
 <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="100" height="100" />
 
